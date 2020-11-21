@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+    <html>
+<h1 style="font-size: 80px; background-color:red; color: gray ; text-align: center">Reasons you suck!</h1>
+
+<ol style="font-size: 50px; text-align: center">
+<li>   You're ugly </li>
+<li>   You're bad</li>
+<li> You're not funny</li>
+
+    </ol>
+<h3 style="font-size: 40px; text-align: right; color: orange">
+    ~Aidan
+    </html>
